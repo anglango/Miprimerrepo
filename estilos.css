@@ -1,0 +1,34 @@
+body{
+	background-color: black;
+	  color:  white !important;
+	font-family: Verdana;
+	color: red;
+}
+body p{
+	color: green;
+	}
+h1 {
+	font-family: Arial;
+}
+
+a {
+	color: inherit;
+}
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+	
+}
+
+footer{
+	background-color: aliceblue;
+	border: none;
+	border-radius: 10px;
+}
+   h3{
+color: black  ;
+text-align: center;
+
+
+   }
